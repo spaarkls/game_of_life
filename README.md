@@ -8,3 +8,7 @@ Example launch the game:
 ./a.out 0.2 < file1.txt
 ```
 Parameter 0.2 is the speed of game.
+You also can run script "run.sh"
+```Bash
+bash run.sh
+```
